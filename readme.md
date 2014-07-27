@@ -1,6 +1,6 @@
 # Aubrey Portwood's Resume
 
-Because I tend to loose track of resume's and updates to them, I decided to version
+Because I tend to lose track of resume's and updates to them, I decided to version
 control them. The primary resume is in the `.docx` format and it then exported into
 other versions.
 
