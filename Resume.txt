@@ -1,1 +1,94 @@
-Aubrey Portwood16356 N. Thomson Peak Pkwy #2008Scottsdale, AZ 85260(575)-571-7886aubreypwd@icloud.com Objectives• Continue to work in an Agile development environment where I feel I am most productive in• Work in an environment that supports contributions to Open Source software, specifically WordPress• Work with flexible and friendly teams• Work primarily with Web-based technologies• Work remotely (if applicable)• Achieve goals and ship codeExperienceExcion, Web EngineerAugust 2012 – Current, 2.5 years experience• Transitioned a technology consulting firm into a Agile Web development studio• Planned and implemented Agile development strategies • Consulted and worked with Web Technology such as hosting platforms, deployment systems, and version control seeking to improve company quality • Served as primary project manager, "scrum master," and customer relationship manager• Managed and lead multiple contractor relationships as we adjusted to our demand of work • Built numerous WordPress Plugins and Themes designed to help the content team accomplish client goals• Built and designed modular PHP Web Applications outside of WordPress WordPress.org, Contributor to Core, Plugins, & Themes2010 – Current, 4.5 years experience• Contributions to WordPress Core in versions 3.8, 3.8.1 and 3.9• Six Plugin contributions to WordPress.org Plugin Directory• Theme Reviewer for WordPress.org Theme Directory and one Theme contributionNew Mexico State University, Student Web Developer2007 – 2011, 5 years experience• Served the Business, Engineering, & Honors Colleges, the Human Resource Department, and Center for Latin American & Border Studies • Designed, developed, and implemented the first WordPress Theme (Accolade) designed to help NMSU departments use WordPress as a CMS • Helped mentioned colleges and departments migrate their sites to WordPress • Designed and developed WordPress Plugins for mentioned colleges and departments in order to customize Accolade and WordPress for their own needs • Served as IT specialist at the Honors College • Consulted, at request, for the Information Communication Technology (ICT) department Skills• Frontend technologies such as HTML, JavaScript, jQuery, and CSS • Backend technologies such as PHP, Apache, Nginx, and Linux • Version Control systems such as Git, Mercurial, and SVN • Agile Development methodologies and implementation • Using local development platforms like Varying Vagrant Vagrants (preferred), Vagrant, W/X/MAMP, and Virtualization• Familiar using deployment strategies such as Capistrano, Beanstalk, and raw Git deployments • Familiar with dependency management through Git submodules and subtrees or Composer (PHP) • Understanding of other technologies and languages such as Ruby, Shell Scripting, & Python • Graphic software and languages such as, Adobe Photoshop, Pixelmator (preferred), and SVG• Good understanding of server-based technologies such as memcache, GZIP compression, Fast CGI, and MySQL • Familiar with other content management platforms such as Joomla, Expression Engine, and Drupal • Proficient, passionate and experienced in giving back to the Open Source community • Also familiar with services like IRC, Skype, Trello, Pivotal Tracker, Kanban, BitBucket, JIRA, and Github EducationBachelor of Applied StudiesNew Mexico State University (2007 – 2011)• Sought out a degree I felt would help my career more versus getting a degree in the Computer Science department  that did not teach Web Development technologies such as PHP • Attended courses focused on business, marketing, engineering, psychology, and communications Associate of Digital Graphics TechnologyDona Ana Branch Community College (2005 – 2007)• Adobe Suite software in both print and Web • Design application, history, and color theory • Additional understanding of print designLinksGitHub (http://github.com/aubreypwd)BitBucket (http://bitbucket.org/aubreypwd)WordPress.org (https://profiles.wordpress.org/aubreypwd/)LinkedIn (https://www.linkedin.com/in/aubreypwd)Electronic Resume (https://github.com/aubreypwd/resume)References attached to cover letter or available upon request.
+﻿
+Aubrey Portwood
+16356 N. Thomson Peak Pkwy #2008
+Scottsdale, AZ 85260
+(575)-571-7886
+aubreypwd@gmail.com
+
+
+Objectives
+
+Continue to work in an Agile development environment where I feel I am most productive in
+Work in an environment that supports contributions to Open Source software, specifically WordPress
+Work with flexible and friendly teams
+Work primarily with Web-based technologies
+Work remotely (if available)
+Achieve goals and ship code
+
+Experience
+
+Excion, Web Engineer
+August 2012 – Current, 2.5 years experience
+
+Transitioned a technology consulting firm into a Agile Web development studio
+Planned and implemented Agile development strategies 
+Consulted and worked with Web Technology such as hosting platforms, deployment systems, and version control seeking to improve company quality 
+Served as primary project manager, "scrum master," and customer relationship manager
+Managed and lead multiple contractor relationships as we adjusted to our demand of work 
+Built numerous WordPress Plugins and Themes designed to help the content team accomplish client goals
+Built and designed modular PHP Web Applications outside of WordPress 
+
+WordPress.org, Contributor to Core, Plugins, & Themes
+2010 – Current, 4.5 years experience
+
+Contributions to WordPress Core in versions 3.8, 3.8.1 and 3.9
+Six Plugin contributions to WordPress.org Plugin Directory
+Theme Reviewer for WordPress.org Theme Directory and one Theme contribution
+
+New Mexico State University, Student Web Developer
+2007 – 2011, 5 years experience
+
+Served the Business, Engineering, & Honors Colleges, the Human Resource Department, and Center for Latin American & Border Studies 
+Designed, developed, and implemented the first WordPress Theme (Accolade) designed to help NMSU departments use WordPress as a CMS 
+Helped mentioned colleges and departments migrate their sites to WordPress 
+Designed and developed WordPress Plugins for mentioned colleges and departments in order to customize Accolade and WordPress for their own needs 
+Served as IT specialist at the Honors College 
+Consulted, at request, for the Information Communication Technology (ICT) department 
+
+
+Skills
+
+Frontend technologies such as HTML, JavaScript, jQuery, and CSS 
+Backend technologies such as PHP, Apache, Nginx, and Linux 
+Version Control systems such as Git, Mercurial, and SVN 
+Agile Development methodologies and implementation 
+Using local development platforms like Varying Vagrant Vagrants (preferred), Vagrant, W/X/MAMP, and Virtualization
+Familiar using deployment strategies such as Capistrano, Beanstalk, and raw Git deployments 
+Familiar with dependency management through Git submodules and subtrees or Composer (PHP) 
+Understanding of other technologies and languages such as Ruby, Shell Scripting, & Python 
+Graphic software and languages such as, Adobe Photoshop, Pixelmator (preferred), and SVG
+Good understanding of server-based technologies such as memcache, GZIP compression, Fast CGI, and MySQL 
+Familiar with other content management platforms such as Joomla, Expression Engine, and Drupal 
+Proficient, passionate and experienced in giving back to the Open Source community 
+Also familiar with services like IRC, Skype, Trello, Pivotal Tracker, Kanban, BitBucket, JIRA, and Github 
+
+Education
+
+Bachelor of Applied Studies
+New Mexico State University (2007 – 2011)
+
+Sought out a degree I felt would help my career more versus getting a degree in the Computer Science department  that did not teach Web Development technologies such as PHP 
+Attended courses focused on business, marketing, engineering, psychology, and communications 
+
+Associate of Digital Graphics Technology
+Dona Ana Branch Community College (2005 – 2007)
+
+Adobe Suite software in both print and Web 
+Design application, history, and color theory 
+Additional understanding of print design
+
+
+Links
+
+GitHub (http://github.com/aubreypwd)
+BitBucket (http://bitbucket.org/aubreypwd)
+WordPress.org (https://profiles.wordpress.org/aubreypwd/)
+LinkedIn (https://www.linkedin.com/in/aubreypwd)
+Electronic Resume (https://github.com/aubreypwd/resume)
+
+
+
+
+
+
+References attached to cover letter or available upon request.

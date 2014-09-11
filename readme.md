@@ -12,3 +12,7 @@ File > Properties > Comments.
 ### 1.0
 
 * Initial Resume
+
+### 1.0.1
+
+- Update to current Email
