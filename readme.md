@@ -9,10 +9,16 @@ File > Properties > Comments.
 
 ## Changelog
 
-### 1.0
+### 1.1
 
-* Initial Resume
+- Removed some Agile stuff as it really isn't that important, just important that I'm familiar with it
+- Change Objectives to be more up front
+- Updates to things I did at Excion
 
 ### 1.0.1
 
 - Update to current Email
+
+### 1.0
+
+* Initial Resume

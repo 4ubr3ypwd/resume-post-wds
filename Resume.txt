@@ -8,25 +8,21 @@ aubreypwd@gmail.com
 
 Objectives
 
-Continue to work in an Agile development environment where I feel I am most productive in
-Work in an environment that supports contributions to Open Source software, specifically WordPress
-Work with flexible and friendly teams
-Work primarily with Web-based technologies
-Work remotely (if available)
-Achieve goals and ship code
+Work with WordPress
+Build Websites, Themes and Plugins
+Setup Environments for Websites (Hosting, etc)
 
 Experience
 
 Excion, Web Engineer
-August 2012 – Current, 2.5 years experience
+August 2012 – Feb 2015, 3 years experience
 
-Transitioned a technology consulting firm into a Agile Web development studio
-Planned and implemented Agile development strategies 
-Consulted and worked with Web Technology such as hosting platforms, deployment systems, and version control seeking to improve company quality 
-Served as primary project manager, "scrum master," and customer relationship manager
-Managed and lead multiple contractor relationships as we adjusted to our demand of work 
-Built numerous WordPress Plugins and Themes designed to help the content team accomplish client goals
-Built and designed modular PHP Web Applications outside of WordPress 
+Transitioned a technology consulting firm into a WordPress Website studio
+Consulted and implemented Web Technology such as hosting platforms, deployment systems, and version control seeking to improve company quality 
+Served as primary project manager and developer
+Managed and lead multiple contractor relationships as we adjusted to our demand of work
+Built WordPress Websites, Plugins and Themes designed to help the content team accomplish client goals
+Built and designed other PHP Applications that were not based on WordPress
 
 WordPress.org, Contributor to Core, Plugins, & Themes
 2010 – Current, 4.5 years experience
@@ -50,8 +46,8 @@ Skills
 
 Frontend technologies such as HTML, JavaScript, jQuery, and CSS 
 Backend technologies such as PHP, Apache, Nginx, and Linux 
-Version Control systems such as Git, Mercurial, and SVN 
-Agile Development methodologies and implementation 
+Version Control systems such as Git, Mercurial, and SVN
+Agile Development methodologies and implementation
 Using local development platforms like Varying Vagrant Vagrants (preferred), Vagrant, W/X/MAMP, and Virtualization
 Familiar using deployment strategies such as Capistrano, Beanstalk, and raw Git deployments 
 Familiar with dependency management through Git submodules and subtrees or Composer (PHP) 
@@ -60,7 +56,7 @@ Graphic software and languages such as, Adobe Photoshop, Pixelmator (preferred),
 Good understanding of server-based technologies such as memcache, GZIP compression, Fast CGI, and MySQL 
 Familiar with other content management platforms such as Joomla, Expression Engine, and Drupal 
 Proficient, passionate and experienced in giving back to the Open Source community 
-Also familiar with services like IRC, Skype, Trello, Pivotal Tracker, Kanban, BitBucket, JIRA, and Github 
+Also familiar with services like IRC, Slack, Skype, Trello, Pivotal Tracker, Kanban, BitBucket, JIRA, and Github 
 
 Education
 
